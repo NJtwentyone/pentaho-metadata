@@ -1,0 +1,1 @@
+<CWM:Parameter name="en_US" xmi.id="a1"><CWM:ModelElement.taggedValue><CWM:TaggedValue tag="LOCALE_IS_DEFAULT" value="Y" xmi.id="a2"/><CWM:TaggedValue tag="LOCALE_ORDER" value="1" xmi.id="a3"/><CWM:TaggedValue tag="LOCALE_DESCRIPTION" value="English (US)" xmi.id="a4"/></CWM:ModelElement.taggedValue></CWM:Parameter>
